@@ -1,0 +1,5 @@
+config:
+  - name: server
+    value: localhost
+  - name: port
+    value: 8080

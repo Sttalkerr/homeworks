@@ -1,0 +1,8 @@
+users:
+  - name: Alice
+    roles:
+      - admin
+      - editor
+  - name: Bob
+    roles:
+      - viewer

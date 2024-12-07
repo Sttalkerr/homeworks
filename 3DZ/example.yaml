@@ -1,0 +1,18 @@
+sum_result: "|+ 10 5"
+text: "Hello, World!"
+another_sum: "|+ 10 20 30"
+settings:
+  width: 10
+  height: 20
+  another_value: 25.5
+
+complex_settings:
+    -  10
+    -  20
+    - (define PI 3.14159)
+    - (comment это многострочный 
+      комментарий)
+
+server:
+  port: 8080
+  threads: [10; 20; 30] 
