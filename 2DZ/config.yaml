@@ -1,0 +1,4 @@
+package_name: python3
+repository_url: http://dl-cdn.alpinelinux.org/alpine/v3.18/main
+max_depth: 2
+current_depth: 0
