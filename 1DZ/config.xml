@@ -1,0 +1,6 @@
+
+<config>
+    <hostname>my_shell</hostname>
+    <vfs_path>./virtual_fs.tar</vfs_path>
+    <log_path>./log.json</log_path>
+</config>

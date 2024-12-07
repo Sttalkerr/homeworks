@@ -1,0 +1,9 @@
+{"command": "tail example_file.txt 7", "path": "D:\\KONFIG\\1DZ"}
+{"command": "tail example_file.txt 7", "path": "D:\\KONFIG\\1DZ"}
+{"command": "cd  ", "path": "D:\\KONFIG\\HOMEWORK\\1DZ"}
+{"command": "cd ..", "path": "D:\\KONFIG\\HOMEWORK\\1DZ"}
+{"command": "cd c:", "path": "D:\\KONFIG\\HOMEWORK\\1DZ"}
+{"command": "cd d:", "path": "D:\\KONFIG\\HOMEWORK\\1DZ"}
+{"command": "cd ..", "path": "D:\\KONFIG\\HOMEWORK\\1DZ"}
+{"command": "clear", "path": "D:\\KONFIG\\HOMEWORK\\1DZ"}
+{"command": "uname", "path": "D:\\KONFIG\\HOMEWORK\\1DZ"}
