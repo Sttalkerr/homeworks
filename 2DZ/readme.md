@@ -19,3 +19,8 @@
 ```
 git clone https://github.com/Sttalkerr/homeworks/tree/main/2DZ.git
 ```
+# Запуск
+```
+docker build -t alpy .
+docker run -it --rm alpy python3 apk_dependencies.py
+```
