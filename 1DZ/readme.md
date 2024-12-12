@@ -19,3 +19,12 @@ tar. Эмулятор должен работать в режиме CLI.
 1. tail.
 2. uname.
 3. clear
+
+# Установка
+```
+git clone https://github.com/Sttalkerr/homeworks/tree/main/1DZ.git
+```
+# Запуск
+```
+python launcher.py
+```
