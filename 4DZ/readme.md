@@ -19,6 +19,7 @@
 
 
 Загрузка константы
+
 ![image](https://github.com/user-attachments/assets/4eeed1c1-1778-430b-8dde-3a4ece8de5d9)
 
 Размер команды: 5 байт. Операнд: поле B. Результат: регистр-аккумулятор.
