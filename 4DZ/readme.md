@@ -51,5 +51,6 @@ git clone https://github.com/Sttalkerr/homeworks/tree/main/4DZ.git
 ```
 # Запуск
 ```
-
+python assembler.py input.asm output_program.bin result.csv
+python interpreter.py output_program.bin result.csv 0 350
 ```
